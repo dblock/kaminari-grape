@@ -2,6 +2,7 @@
 
 kaminari-grape is a Kaminari paginator's adapter gem for [Grape](https://github.com/ruby-grape/grape).
 
+[![Tests](https://github.com/kaminari/kaminari-grape/actions/workflows/test.yml/badge.svg)](https://github.com/kaminari/kaminari-grape/actions/workflows/test.yml)
 
 ## Installation
 
